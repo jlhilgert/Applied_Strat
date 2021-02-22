@@ -1,9 +1,15 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
-date: "`r Sys.Date()`"
+title: "Applied Strategy and Organization"
+author: "Joao Lucas Dziekan Rodrigues Hilgert"
+date: "WiSe 20/21 - Last updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Introduction
 
+This is a summary of the course Applied Strategy and Organization (WI001111) at the [Technical University Munich (TUM)](https://www.tum.de/en/) offered during the 2020/2021 Winter term.
+
+```{r eval=FALSE, include=FALSE}
+image_markdown <- "![](../Strategy images/){}"
+blue_text <- "<span style='color:darkblue'><b></b></span>"
+```
