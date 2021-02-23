@@ -1,0 +1,215 @@
+# <sub>13</sub> Organising for Success
+
+In the book:  
+Chapter 13 - ORGANISING FOR SUCCESS
+
+## INTRODUCTION
+
+This chapter examines organising for successful strategy implementation. It focuses particularly on two key elements of organisational ‘design’: organisational structures and organisational systems. Structures give people formally defined roles, responsibilities and lines of reporting. These structures can be seen as the skeletons of organisations, providing the basic frameworks on which everything is built. Systems support and control people as they carry out structurally defined roles and responsibilities. Systems can be seen as the muscles of organisations, giving them movement and coherence.
+
+This chapter addresses the following topics therefore:
+
+- Structures, defining the formal roles, responsibilities and lines of reporting in organisations. The chapter considers the main types of structures, including functional, divisional, matrix, project and transnational structures.
+- Systems, supporting and controlling people within and around an organisation. These systems include direct mechanisms such as performance targeting and planning, and more indirect ones such as cultural and market systems.
+- Configurations, the mutually supporting elements that make up an organisation’s design. As well as strategy, structure and systems, these elements can include staff, style, skills and superordinate goals, as encapsulated in the McKinsey 7-S framework.
+
+## STRUCTURAL TYPES
+
+Managers often describe their organisation by drawing an organisation chart, mapping out its formal structure. These structural charts define the levels and roles in an organisation. They are important to managers because they describe who is responsible for what. This section reviews five basic structural types: functional, divisional, matrix, transnational and project.
+
+### The functional structure
+
+Even a small entrepreneurial start-up, once it involves more than one person, needs to divide up responsibilities between different people. The functional structure divides responsibilities according to the organisation’s primary specialist roles such as production, research and sales.
+
+Figure 13.2 represents a typical organisation chart for such a functional organisation. This kind of structure is particularly relevant to small or start-up organisations, or larger organisations that have retained narrow, rather than diverse, product ranges. Functional structures may also be used within a multidivisional structure (see below), where the divisions themselves may split themselves up according to functional departments (as in Figure 13.2). Figure 13.2 also summarises the potential advantages and disadvantages of a functional structure. There are advantages in that it gives senior managers direct hands-on involvement in operations and allows greater operational control from the top. The functional structure provides a clear definition of roles and tasks, increasing accountability. Functional departments also provide concentrations of expertise, thus fostering knowledge development in areas of functional specialism.
+
+Figure 13.2 A functional structure
+
+![](../Strategy images/Screenshot 2021-02-15 at 19.21.39.png)
+
+However, there are disadvantages, particularly as organisations become larger or more diverse. Perhaps the major concern in a fast-moving world is that senior managers focus too much on their functional responsibilities, becoming overburdened with routine operations and too concerned with narrow functional interests. As a result, they find it hard either to take a strategic view of the organisation as a whole or to coordinate separate functions quickly. Thus functional organisations can be inflexible, poor at adapting to change. Separate functional departments tend also to be inward-looking – so-called ‘functional silos’ – making it difficult to integrate the knowledge of different functional specialists. Finally, because they are centralised around particular functions, functional structures are not good at coping with product or geographical diversity. For example, a central marketing department may try to impose a uniform approach to advertising regardless of the diverse needs of the organisation’s various business units around the world.
+
+### The divisional structure
+
+A divisional structure is built up of separate divisions on the basis of products, services or geographical areas (see Figure 13.3). Divisionalisation often comes about as an attempt to overcome the problems that functional structures have in dealing with the diversity mentioned above. 3 Each division can respond to the specific requirements of its product/market strategy, using its own set of functional departments. A similar situation exists in many public services, where the organisation is structured around service departments such as recreation, social services and education.
+
+Figure 13.3 A multidivisional structure
+
+![](../Strategy images/Screenshot 2021-02-15 at 19.22.12.png)
+
+There are several potential advantages to divisional structures. As self-standing business units, it is possible to control divisions from a distance by monitoring business performance (see section 13.3.3). Having divisions also provides flexibility because organisations can add, close or merge divisions as circumstances change. Divisional managers have greater personal ownership for their own divisional strategies. Geographical divisions – for example, a European division or a North American division – offer a means of managing internationally (see section 13.2.4). There can be benefits of specialisation within a division, allowing competences to develop with a clearer focus on a particular product group, technology or customer group. Management responsibility for a whole divisional business is good training in taking a strategic view for managers expecting to go on to a main board position.
+
+However, divisional structures can also have disadvantages of three main types. First, divisions can become so self-sufficient that they are de facto independent businesses, but duplicating the functions and costs of the corporate centre of the company. In such cases of de facto independence, it may make more sense to split the company into independent businesses, and de-mergers of this type are now common. Second, divisionalisation tends to get in the way of cooperation and knowledge-sharing between business units: divisions can quite literally divide. Expertise is fragmented and divisional performance targets provide poor incentives to collaborate with other divisions. Finally, divisions may become too autonomous, especially where joint ventures and partnership dilute ownership. Here, divisions pursue their own strategies almost regardless of the needs of the corporate parent. In these cases, divisional companies become holding companies, where the corporate centre effectively ‘holds’ the various businesses in a largely financial sense, exercising little control and adding little value. Figure 13.3 summarises these potential advantages and disadvantages of a multidivisional structure.
+
+Large and complex divisional companies often have a second tier of subdivisions within their main divisions. Treating smaller strategic business units as subdivisions within a large division reduces the number of units that the corporate centre has to deal with directly. Subdivisions can also help complex organisations respond to contradictory pressures. For example, an organisation could have geographical subdivisions within a set of global product divisions (see section 13.2.4).
+
+### The matrix structure
+
+A matrix structure combines different structural dimensions simultaneously, for example product divisions and geographical territories or product divisions and functional specialisms. In matrix structures, staff typically report to two managers rather than one. Figure 13.4 gives examples of such a structure.
+
+Figure 13.4 Two examples of matrix structures
+
+![](../Strategy images/Screenshot 2021-02-15 at 19.23.00.png)
+
+Matrix structures have several advantages. They promote knowledge-sharing because they allow separate areas of knowledge to be integrated across organisational boundaries. Particularly in professional service organisations, matrix organisations can be helpful in applying particular knowledge specialisms to different market or geographical segments. For example, to serve a particular client, a consulting firm may draw on people from groups with particular knowledge specialisms (e.g. strategy or organisation design) and others grouped according to particular markets (industry sectors or geographical regions). Figure 13.4 shows how a school might combine the separate knowledge of subject specialists to create programmes of study tailored differently to various age groups. Matrix organisations are flexible, because they allow different dimensions of the organisation to be mixed together. They are particularly attractive to organisations operating globally, because of the possible mix between local and global dimensions. For example, a global company may prefer geographically defined divisions as the operating units for local marketing (because of their specialist local knowledge of customers). But at the same time it may still want global product units responsible for the worldwide coordination of product development and manufacturing, taking advantage of economies of scale and specialisation.
+
+However, because a matrix structure replaces single lines of authority with multiple cross-matrix relationships, this often brings problems. In particular, it will typically take longer to reach decisions because of bargaining between the managers of different dimensions. There may also be conflict because staff find themselves responsible to managers from two structural dimensions. In short, matrix organisations are hard to control.
+
+As with any structure, but particularly with the matrix structure, the critical issue in practice is the way it actually works (i.e. behaviours and relationships). The key ingredient in a successful matrix structure can be senior managers good at sustaining collaborative relationships (across the matrix) and coping with the messiness and ambiguity which that can bring. It is for this reason that Chris Bartlett and Sumantra Ghoshal describe the matrix as involving a ‘frame of mind’ as much as a formal structure.
+
+### Multinational/transnational structures
+
+Operating internationally adds an extra dimension to the structural challenge. As in Figure 13.5, there are essentially four structural designs available for multinationals. Three are simple extensions of the principles of the divisional structure (section 13.2.2), so are dealt with briefly. The fourth, the transnational structure, is more complex and will be explained at more length.
+
+The three simpler multinational structures are as follows:
+
+- International divisions. An international division is a standalone division added alongside the structure of the main home-based business. This is often the kind of structure adopted by corporations with large domestic markets (such as in the USA or China), where an initial entry into overseas markets is relatively small-scale and does not require structural change to the original, much bigger, home businesses. For example, a Chinese car, truck and motorbike manufacturer might have separate divisions for each of its product areas in its home market of China, but run its overseas businesses in a separate ‘international division’ combining all three product areas together. The international division is typically run from headquarters, but not integrated with the domestic business. As in Figure 13.5, the international division is centralised, but not highly coordinated with other parts of the business.
+- Local subsidiaries. These subsidiaries typically have most of the functions required to operate on their own in their particular local market, for example design, production and marketing. They are thus a form of geographic divisional structure. They have high local responsiveness and are loosely coordinated. A local subsidiary structure is very common in professional services such as law, accounting and advertising, where there are few economies of scale and responsiveness to local regulations, relationships or tastes is very important. This structure fits the multi-domestic strategy introduced in Chapter 8. A variant of local subsidiaries are geographical regional units, for instance Latin America and Asia, as at Reckitt Benckiser (Illustration 13.2).
+- Global product divisions. This kind of structure is often used where economies of scale are very important. Organising the design, production and marketing on the basis of global divisions rather than local subsidiaries typically maximises cost efficiency. It also helps direct central resources to targeted markets and facilitates cross-subsidisation of unprofitable geographical markets. To return to the Chinese car, truck and motorbike manufacturer, there would be just three divisions, each responsible for its particular product area across the whole world, China included. There would be very little scope for adaptation to local tastes or regulations in particular markets. In global product divisions, local responsiveness would typically be very low. This structure fits the global strategy introduced in Chapter 8 
+The international division, local subsidiary and global product division structures all have their particular advantages, whether it is managing relative size, maximising local responsiveness or achieving economies of scale. The fourth structure, however, tries to integrate the advantages of the local subsidiary structure with those of the global product divisional structure.
+
+In terms of Figure 13.5, the transnational structure combines local responsiveness with high global coordination.
+
+Figure 13.5 Multinational structures
+
+![](../Strategy images/Screenshot 2021-02-15 at 19.23.47.png)
+
+According to Bartlett and Ghoshal, transnational structures are similar to matrices but distinguish themselves by their focus on knowledge-sharing, specialisation and network management, as follows:
+
+- Knowledge-sharing. While each national or regional business has a good deal of autonomy, in the transnational they should see themselves as sources of ideas and capabilities for the whole corporation. Thus a good idea that has been developed locally is offered for adoption by other national or regional units around the world.
+- Specialisation. National (or regional) units specialise in areas of expertise in order to achieve greater scale economies on behalf of the whole corporation. Thus a national unit that has particular competences in manufacturing a particular product, for example, may be given responsibility for manufacturing that product on behalf of other units across the world.
+- Network management. The corporate centre has the role of managing this global network of specialisms and knowledge. It does so first by establishing the specialist role of each business unit, then sustaining the systems and relationships required to make the network of business units operate in an integrated and effective manner.
+
+### Project-based structures
+
+The project-based structure can be highly flexible, with projects being set up and dissolved as required. Because project teams should have clear tasks to achieve within a defined period, accountability and control are good. As project team members will typically be drawn from different departments within the firm, projects can be effective at knowledge exchange.
+
+Projects can also draw on members internationally and, because project life spans are typically short, project teams may be more willing to work temporarily around the world. There are disadvantages, however. Organisations are prone to proliferate projects in an ill-coordinated fashion. The constant breaking up of project teams can also hinder the accumulation of knowledge over time or within specialisms.
+
+### Choosing structures
+
+T able 13.1 summarises how the five basic structures – functional, multidivisional, matrix, transnational and project – meet these challenges of control, change, knowledge and internationalisation faced by many contemporary organisations. No structure scores high across all four challenges. Organisational designers therefore face trade-offs and choices.
+
+In reality, few organisations adopt a structure that is just like one of the pure structural types discussed above. Structures often blend different types into hybrid structures (see section 13.4.1 below), tailor-made to the particular mix of challenges facing the organisation. While Table 13.1 considers general challenges for contemporary organisations, Goold and Campbell provide nine design tests against which to check specific tailor-made structural solutions. The first four tests stress fit with the key objectives and constraints of the organisation:
+
+- The Market-Advantage Test. This test of fit with market strategy is fundamental, following Alfred Chandler’s classic principle that ‘structure follows strategy’: that is first define the strategy, then fit the structure. 11 For example, if integrated services are important to market advantage, then they should probably not be split between different structural units.
+- The Parenting Advantage Test. The structural design should fit the ‘parenting’ role of the corporate centre (see Chapter 7). For example, if the corporate centre aims to add value as a synergy manager, then it should design a structure that places important integrative specialisms, such as marketing or research, at the centre.
+- The People Test. The structural design must fit the people available. It is dangerous to switch completely from a functional structure to a multidivisional structure if, as is likely, the organisation lacks managers with competence in running decentralised business units.
+- The Feasibility Test. This is a catch-all category, indicating that the structure must fit legal, stakeholder, trade union or similar constraints. For example, after scandals involving biased research, investment banks are now required by financial regulators to separate their research departments from their deal-making departments.
+
+Table 13.1 Comparison of structures
+
+![](../Strategy images/Screenshot 2021-02-15 at 19.24.40.png)
+
+Goold and Campbell then propose five more tests based on good general organisational design principles, as follows:
+
+- The Specialised Cultures Test. This test reflects the value of bringing together specialists so that they can develop their expertise in close collaboration with each other. A structure scores poorly if it breaks up important specialist cultures.
+- The Difficult Links Test. This test asks whether a proposed structure will set up links between parts of the organisations that are important but bound to be strained. For example, extreme decentralisation to profit-accountable business units is likely to strain relationships with a central research and development department. Unless compensating mechanisms are put in place, this kind of structure is likely to fail.
+- The Redundant Hierarchy Test. Any structural design should be checked in case it has too many layers of management, causing undue blockages and expense. Delayering in response to redundant hierarchies has been an important structural trend in recent years.
+- The Accountability Test. This test stresses the importance of clear lines of accountability, ensuring the control and commitment of managers throughout the structure. Because of their dual lines of reporting, matrix structures are often accused of lacking clear accountability.
+- The Flexibility Test. While not all organisations will face the same general rise in environmental velocity as referred to with regard to Table 13.1, a final important test is whether the design will be sufficiently flexible to accommodate possible changes in the future. Here Kathleen Eisenhardt argues for structural ‘modularity’ (i.e. standardisation) in order to allow easy ‘patching’ (i.e. transfer) of one part of the organisation to another part of the organisation, as market needs change. For example, if strategic business units are similar in structural size and internal management systems throughout a large organisation, it becomes easy to transfer them from one division to another according to changing business needs.
+
+## SYSTEMS
+
+Structure is a key ingredient of organising for success. But structures can only work if they are supported by formal and informal organisational systems, the ‘muscles’ of the organisation. 14 Systems help ensure control over strategy implementation.
+
+Systems as means of control can be subdivided in two ways. First, systems tend to emphasise either control over inputs or control over outputs. Input control systems concern themselves with the resources consumed in the strategy, especially financial resources and human commitment. Output control systems focus on ensuring satisfactory results, for example the meeting of targets or achieving market competitiveness. The second subdivision is between direct and indirect controls. Direct controls involve close supervision or monitoring. Indirect controls are more hands-off, setting up the conditions whereby desired behaviours are achieved semi-automatically. How the four systems we shall consider emphasise input or output controls and direct or indirect control is summarised in Table 13.2.
+
+Table 13.2 Types of control systems
+
+![](../Strategy images/Screenshot 2021-02-15 at 19.25.08.png)
+
+Organisations normally use a blend of these control systems, but some will dominate over others according to the strategic challenges. As for structures, these challenges include change, knowledge and internationalisation and different systems cope with some of these better than others.
+
+### Planning systems
+
+Planning systems plan and control the allocation of resources and monitor their utilisation. The focus is on the direct control of inputs. These might be simple financial inputs (as in budgeting), human inputs (as in planning for managerial succession) or long-term investments (as particularly in strategic planning). Goold and Campbell’s 15 typology of three strategy styles helps to identify the advantages and disadvantages of planning systems against other methods of corporate central oversight.
+
+As in Figure 13.6, the three strategy styles align themselves on these two dimensions thus:
+
+- The strategic planning style is the archetypal planning system, hence its name. In the Goold and Campbell sense, the strategic planning style combines both a strong planning influence on strategic direction from the corporate centre with relatively relaxed performance accountability for the business units. The logic is that if the centre sets the strategic direction, business unit managers should not be held strictly accountable for disappointing results that might be due to an inappropriate plan in the first place. In the strategic planning style, the centre focuses on inputs in terms of allocating resources necessary to achieve the strategic plan, while exercising a high degree of direct control over how the plan is executed by the businesses.
+- The financial control style involves very little central planning. The business units each set their own strategic plans, probably after some negotiation with the corporate centre, and are then held strictly accountable for the results against these plans. This style differs from the strategic planning style in that control is against financial outputs, similar to a performance targeting system (see section 13.3.3). If the businesses devised the plans, then they should take full responsibility for success or failure. Business unit managers in the financial control style have a lot of autonomy and typically receive high bonus payments for success. But failure may easily lead to dismissal. The financial planning style fits with the portfolio manager or restructurer roles of the corporate centre referred to in Chapter 7.
+- The strategic control style is in the middle, with a more consensual development of the strategic plan between the corporate centre and the business units and moderate levels of business unit accountability. Under the strategic control style, the centre will typically act as coach to its business unit managers, helping them to see and seize opportunities in a supportive manner. This style often relies on strong cultural systems to foster trust and mutual understanding (see section 13.3.3). Consequently, the strategic control style is often associated with the synergy manager or parental developer roles of the corporate centre discussed in Chapter 7.
+
+Thus the three strategy styles vary with regard to their reliance on, and application of, planning systems. The direct control of inputs characteristic of the strategic planning style is only appropriate in certain circumstances.
+
+Figure 13.6 Strategy styles
+
+![](../Strategy images/Screenshot 2021-02-15 at 19.25.30.png)
+
+### Cultural systems
+
+Three key cultural systems are:
+
+- Recruitment. Here cultural conformity may be attempted by the selection of appropriate staff in the first place. Employers look to find people who will ‘fit’. Thus some employers may favour recruiting people who have already shown themselves to be ‘team-players’ through sport or other activities.
+- Socialisation. Here employee behaviours are shaped by social processes once they are at work. It often starts with the integration of new staff through training, induction and mentoring programmes. It typically continues with further training throughout a career. Symbols can also play a role in socialisation, for example the symbolic example of leaders’ behaviours or the influence of office décor, dress codes or language.
+- Reward. Appropriate behaviour can be encouraged through pay, promotion or symbolic processes (e.g. public praise). The desire to achieve the same rewards as successful people in the organisation will typically encourage imitative behaviour.
+
+### Performance targeting systems
+
+This approach can be particularly appropriate in certain situations:
+
+- Within large businesses, corporate centres may choose performance targets to control their business units without getting involved in the details of how they achieve them (as in the financial control style in section 13.3.1). These targets are often cascaded down the organisation as specific targets for subunits, functions and even individuals.
+- In regulated markets, such as privatised utilities in the UK and elsewhere, governmentappointed regulators increasingly exercise control through agreed key performance indicators (KPIs), such as service or quality levels, as a means of ensuring ‘competitive’ performance.
+- In the public services, where control of resource inputs was the dominant approach historically, governments are attempting to move control processes towards outputs (such as quality of service) and, more importantly, towards outcomes (e.g. patient mortality rates in healthcare).
+
+Many managers find it difficult to develop a useful set of targets. There are at least three potential problems with targets:
+
+- Inappropriate measures of performance are quite common. For example, managers often prefer indicators that are easily measured or choose measures based on inadequate understanding of real needs on the ground. The result is a focus on the required measures rather than the factors that might be essential to long-term success. In the private sector, focus on short-term profit measures is common, at the expense of investment in the long-run prosperity of the business.
+- Inappropriate target levels are a common problem. Managers are liable to give their superiors pessimistic forecasts so that targets are set at undemanding levels, which can then be easily met. On the other hand, superiors may over-compensate for their managers’ pessimism, and end up setting excessively demanding targets. Unrealistically ambitious targets can either demotivate employees who see no hope of achieving them regardless of their effort, or encourage risky or dishonest behaviours in order to achieve the otherwise impossible.
+- Excessive internal competition can be a result of targets focused on individual or subunit performance. Although an organisation by definition should be more than the sum of its parts, if individuals or subunits are being rewarded on their performance in isolation, they will have little incentive to collaborate with the other parts of the organisation. The struggle to meet individualistic targets will reduce the exchange of information and the sharing of resources.
+
+These acknowledged difficulties with targets have led to the development of two techniques designed to encourage a more balanced approach to target-setting. The most fundamental has been the development of the balanced scorecard approach. 20 Balanced scorecards set performance targets according to a range of perspectives, not only financial. Thus balanced scorecards typically combine four specific perspectives: the financial perspective, which might include profit margins or cash flow; the customer perspective, which sets targets important to customers, such as delivery times or service levels; the internal perspective, with targets relating to operational effectiveness such as the development of IT systems or reductions in waste levels; and finally the future-orientated innovation and learning perspective, which targets activities that will be important to the long-run performance of the organisation, for example investment in training or research. Attending to targets relevant to all four perspectives helps ensure that managers do not focus on one set of targets (e.g. financial) at the expense of others, while also keeping an eye to the future through innovation and learning.
+
+A second more balanced approach to target-setting is strategy mapping, developing the balanced scorecard idea. Strategy maps link different performance targets into a mutually supportive causal chain supporting strategic objectives. Figure 13.7 shows an extract of a strategy map for a delivery company based on the four perspectives of finance, customers, internal processes, and innovation and learning. In this map, investments in well-trained and motivated drivers under the heading of ‘innovation and learning’ lead to on-time deliveries under the heading of ‘internal processes’, and thence to satisfied customers and finally to profitable growth. The causal chain between the various targets underlines the need for balance between them: each depends on the others for achievement. Thus strategy maps help in reducing the problem of partial measures referred to above; the problems of inappropriate target levels and internal competition are not so easily resolved.
+
+Figure 13.7 A strategy map
+
+![](../Strategy images/Screenshot 2021-02-15 at 19.26.19.png)
+
+### Market systems
+
+Market disciplines (or internal markets) can be brought inside organisations to control activities internally. 21 Market systems typically involve some formalised system of ‘contracting’ for resources or inputs from other parts of an organisation and for supplying outputs to other parts of an organisation. Control focuses on outputs, for example revenues earned in successful competition for internal contracts. The control is indirect: rather than accepting detailed performance targets determined externally, units have simply to earn their keep in competitive internal markets.
+
+Internal markets can be used in a variety of ways. There might be competitive bidding, perhaps through the creation of an internal investment bank at the corporate centre to support new initiatives. Also, a customer–supplier relationship may be established between a central service department, such as training or IT, and the operating units. Typically these internal markets are subject to considerable regulation. For example, the corporate centre might set rules for transfer prices between internal business units to prevent exploitative contract pricing, or insist on service-level agreements to ensure appropriate service by an essential internal supplier, such as IT, for the various units that depend on it.
+
+But market systems can create problems as well. First, they can increase bargaining between units, consuming important management time. Second, they may create a new bureaucracy monitoring all of the internal transfers of resources between units. Third, an overzealous use of market mechanisms can lead to dysfunctional competition and legalistic contracting, destroying cultures of collaboration and relationships. These have all been complaints made against the internal markets and semi-autonomous Foundation Trust Hospitals introduced in the UK’s National Health Service. On the other hand, their proponents claim that these market processes free a traditionally over-centralised health service to innovate and respond to local needs, while market disciplines maintain overall control.
+
+## CONFIGURATIONS
+
+The introduction of this chapter introduced the concept of configurations. Configurations are the set of organisational design elements that interlink together in order to support the intended strategy.
+
+The introductory Figure 13.1 focused on the mutually supporting elements of strategy, structure and systems. This section begins by extending these three elements with the McKinsey 7-S framework and finishes by considering likely tensions or dilemmas amongst the elements of organisational design and some methods for managing them.
+
+### The McKinsey 7-S framework
+
+The McKinsey & Co consulting company has developed a framework for assessing the degree to which the various elements of an organisation’s design fit together in a mutually supporting manner. The McKinsey 7-S framework highlights the importance of fit between strategy, structure, systems, staff, style, skills and superordinate goals.
+
+This chapter has already addressed strategy, structure and systems. This section will comment on the remaining four elements of the 7-S framework, as follows:
+
+- Style here refers to the leadership style of top managers in an organisation. Leadership styles may be collaborative, participative, directive or coercive, for instance (see Chapter 14). Managers’ behavioural style can influence the culture of the whole organisation (see Chapter 5). The style should fit other aspects of the 7-S framework: for example, a highly directive or coercive style is not likely to fit a matrix organisation structure.
+- Staff is about the kinds of people in the organisation and how they are developed. This relates to systems of recruitment, socialisation and reward (section 13.3.2). A key criterion for the feasibility of any strategy is: does the organisation have the people to match (see section 11.4.2)? A common constraint on structural change is the availability of the right people to head new departments and divisions (the ‘People Test’: see section 13.2.6).
+- Skills relates to staff, but in the 7-S framework refers more broadly to capabilities in general (see Chapter 3). The concept of capabilities here raises not only staff skills but also issues to do with how these skills are embedded in and captured by the organisation as a whole. For example, how do the organisation’s training schemes, information technology and reward systems transform the talents of individuals into the organisational capabilities required by the strategy?
+- Superordinate goals refers to the overarching goals or purpose of the organisation as a whole, in other words the mission, vision and objectives that form the organisational purpose (see Chapter 4). Superordinate goals are placed at the centre of the 7-S framework: all other elements should support these.
+
+Figure 13.8 The McKinsey 7 Ss
+
+![](../Strategy images/Screenshot 2021-02-15 at 19.27.26.png)
+
+### Configuration dilemmas
+
+<span style='color:darkred'><b>Maybe not that important</b></span>
+
+Managing typically involves trade-offs and tensions between different desirable states. Seeking perfect solutions on one element of the configuration may very well oblige compromises on another element. Given that many of these tensions are very hard to escape, this section briefly considers various ways in which they can at least be managed.
+
+Figure 13.9 summarises five key dilemmas in organising. First, formal hierarchies are often necessary to ensure control and action, but they can sit uneasily with the informal networks that foster knowledge exchange and innovation. Second, vertical accountability promotes maximum performance by subordinates, but it can easily lead managers to maximise their own self-interest, at the expense of horizontal relationships. Third, empowering employees lower down the organisation gives scope for potentially valuable initiatives and experiments, but over the long term can lead to incoherence. Fourth, while centralisation might be needed for standardisation of products and processes, this can be at the cost of the initiative and flexibility fostered by decentralisation. Finally, adopting best practice on a particular element of the organisation, for instance financial controls, may actually be damaging if it does not fit with the needs of the organisation as a whole.
+
+Figure 13.9 Some dilemmas in organising for success
+
+![](../Strategy images/Screenshot 2021-02-15 at 19.28.21.png)
+
+However, they may be able to manage these dilemmas in three ways:
+
+- By subdividing the organisation, so that the one part of the organisation is organised optimally according to one side of these dilemmas, while the rest responds to the other. Thus, for example, IBM created its revolutionary personal computer in a specialised new-venture division, kept separate from the traditional mainframe activities which were dominated by principles of hierarchy and vertical accountability highly antagonistic to radical innovation.
+- By combining different organising principles at the same time. Thus organisation design expert Jay Galbraith argues for the potential of ‘hybrid structures’: for instance, a ‘frontback’ structure combines centralised functional specialisms in manufacturing and research at the ‘back’, while customer-facing units at the front are organised in a more decentralised way around particular market segments, such as industry or geography.
+- By reorganising frequently so that no one side of the dilemma can become too entrenched. Given this pace of reorganising, many organisations are like pendulums, constantly swinging between centralisation and devolution, for example, without resting long on one side or the other.
