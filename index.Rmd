@@ -12,6 +12,8 @@ This is a summary of the course Applied Strategy and Organization (WI001111) at 
 ```{r eval=FALSE, include=FALSE}
 image_markdown <- "![](../Strategy images/){}"
 blue_text <- "<span style='color:darkblue'><b></b></span>"
+highlight <-"<mark></mark>"
+highligh_sect <- "<span style='background-color:#6bf66c;'></span>"
 
 #"fi " -> "fi"
 #"fl " -> "fl"
@@ -19,5 +21,8 @@ blue_text <- "<span style='color:darkblue'><b></b></span>"
 #" ," -> ","
 #" )" -> ")"
 #" :" -> ":"
+
+highlight
+highligh_sect
 
 ```
